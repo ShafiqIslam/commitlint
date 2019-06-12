@@ -11,8 +11,11 @@
   "author": "Shafiqul Islam <islamshafiq003@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "@sheba/commit-template": "*"
   },
   "czrcScopes": [
-      "czrc", "questions", "formatting"
+    "czrc",
+    "questions",
+    "formatting"
   ]
 }
