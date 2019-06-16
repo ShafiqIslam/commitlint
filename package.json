@@ -13,9 +13,5 @@
   "dependencies": {
     "@sheba/commit-template": "*"
   },
-  "czrcScopes": [
-    "czrc",
-    "questions",
-    "formatting"
-  ]
+  "czrcScopes": [ "decompose" ]
 }
